@@ -1,0 +1,7 @@
+quote_size,quotes,share_of_quotes_pct,quote_amount_usd,share_of_value_pct,purchase_orders,quote_to_po_pct
+Under $10K,431,47,1800000,1,78,18
+$10K–50K,281,30,6800000,5,25,9
+$50K–250K,151,16,17700000,14,10,7
+$250K–1M,37,4,17100000,13,2,5
+$1M+,26,3,83800000,66,2,8
+No amount recorded,345,,,,151,44

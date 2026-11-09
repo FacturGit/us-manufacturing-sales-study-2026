@@ -1,0 +1,5 @@
+region,quotes,quotes_change_pct,quote_amount_usd,purchase_orders,po_change_pct,po_amount_usd,quote_to_po_pct
+Northeast,181,-35,11300000,35,-19,289000,19
+Midwest,408,-31,24300000,116,32,4400000,28
+South,271,-42,52100000,47,-33,498000,17
+West,192,-22,29700000,34,13,444000,18

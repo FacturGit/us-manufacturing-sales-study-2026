@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "U.S. Manufacturing Sales Study 2026: Quotes, Purchase Orders and Prospecting Activity"
+authors:
+  - name: "Factur"
+    website: "https://facturmfg.com"
+date-released: 2026-11-06
+version: "1.0"
+license: CC-BY-4.0
+url: "https://data.facturmfg.com/reports/us-manufacturing-industry-analysis-2026.html"
+repository: "https://github.com/FacturGit/us-manufacturing-sales-study-2026"
+keywords:
+  - manufacturing
+  - B2B sales
+  - RFQ
+  - quotes
+  - purchase orders
+  - cold calling
+  - lead generation
+  - United States
+abstract: "Twelve months (November 2025 to October 2026) of outbound prospecting for U.S. manufacturers: 1,271 quotes, 268 purchase orders and $127.3M quoted, by state, region, industry, quote size and prospecting channel, plus 439,358 calls and 621,119 emails of activity."

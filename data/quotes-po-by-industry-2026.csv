@@ -1,0 +1,25 @@
+industry,quotes,quotes_change_pct,quote_amount_usd,purchase_orders,po_amount_usd,quote_to_po_pct
+Machinery,121,-46,7700000,27,155000,22
+Mech. & Industrial Eng.,82,-25,35000000,17,308000,21
+Electrical & Electronic,50,-28,4800000,9,75000,18
+Construction,37,0,2500000,10,66000,27
+Aviation & Aerospace,30,-55,4800000,4,52000,13
+Automotive,27,-51,1200000,5,2000,19
+Defense & Space,25,-60,868000,7,162000,28
+Building Materials,17,-35,544000,4,25000,24
+Plastics,17,-37,427000,5,11000,29
+Oil & Energy,16,-27,156000,3,16000,19
+Packaging & Containers,13,0,693000,4,16000,31
+Mining & Metals,12,-64,2400000,4,316000,33
+Environmental Services,9,-10,528000,0,0,0
+Food Production,9,-25,50000,6,76000,67
+Manufacturing,9,125,103000,2,14000,22
+Medical Devices,9,-62,442000,2,0,22
+Design,8,0,512000,1,49000,12
+Real Estate,8,60,4000,3,36000,38
+Research,8,300,978000,1,3000,12
+Architecture & Planning,7,40,113000,0,0,0
+Food & Beverages,6,-60,437000,4,1000,67
+Furniture,6,-67,77000,0,0,0
+"Health, Wellness and Fitness",6,50,2600000,1,35000,17
+Industrial Automation,6,-25,34000,2,25000,33
